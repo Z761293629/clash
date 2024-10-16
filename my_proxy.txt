@@ -1,0 +1,5 @@
+payload:
+    - 'xfltd.org'
+    - 'xfltd.cc'
+    - 'linux.do'
+    - 'lainbo.com'
